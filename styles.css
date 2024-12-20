@@ -61,7 +61,7 @@ header a {
 
 header a:hover {
     text-decoration: underline;
-    color: #ffeb3b; /* Jaune vif pour l'effet de survol */
+    color: #3bc1ff; /* Jaune vif pour l'effet de survol */
 }
 
 /* Sections principales */
