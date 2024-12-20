@@ -141,11 +141,11 @@ input, textarea, button {
 }
 
 input:focus, textarea:focus {
-    border-color: #4CAF50;
+    border-color: #4c90af;
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: #4c90af;
     color: white;
     border: none;
     cursor: pointer;
@@ -154,7 +154,7 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #4586a0;
 }
 
 /* Pied de page */
